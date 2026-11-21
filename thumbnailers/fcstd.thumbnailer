@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=fcstd-thumbnailer
+Exec=fcstd-thumbnailer %i %o
+MimeType=application/x-extension-fcstd;
