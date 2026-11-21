@@ -18,9 +18,15 @@ xdg-mime query filetype example.FCStd
 
 ## Install
 
-Unpack this project, then run:
+Clone this project
+```bash
+git clone https://github.com/GiMo84/kde6-fcstd-thumbnailer
+```
+
+then run:
 
 ```bash
+cd kde6-fcstd-thumbnailer
 ./install.sh
 ```
 
